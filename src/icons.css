@@ -1,0 +1,254 @@
+@font-face {
+  font-family: 'icomoon';
+  src: url('fonts/icomoon.eot?m6f0s7');
+  src: url('fonts/icomoon.eot?m6f0s7#iefix') format('embedded-opentype'),
+    url('fonts/icomoon.ttf?m6f0s7') format('truetype'),
+    url('fonts/icomoon.woff?m6f0s7') format('woff'),
+    url('fonts/icomoon.svg?m6f0s7#icomoon') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+[class^="icon-"], [class*=" icon-"] {
+  /* use !important to prevent issues with browser extensions that change fonts */
+  font-family: 'icomoon' !important;
+  speak: none;
+  font-style: normal;
+  font-weight: normal;
+  font-variant: normal;
+  text-transform: none;
+  line-height: 1;
+
+  /* Better Font Rendering =========== */
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-application-complete:before {
+  content: "\e949";
+}
+.icon-application-create:before {
+  content: "\e94a";
+}
+.icon-check:before {
+  content: "\e900";
+}
+.icon-padlock:before {
+  content: "\e901";
+}
+.icon-Sign-up-all-icons-01:before {
+  content: "\e902";
+}
+.icon-pencil:before {
+  content: "\e903";
+}
+.icon-profile-icons-12:before {
+  content: "\e904";
+}
+.icon-profile-icons-10:before {
+  content: "\e905";
+}
+.icon-profile-icons-09:before {
+  content: "\e906";
+}
+.icon-profile-icons-08:before {
+  content: "\e907";
+}
+.icon-profile-icons-07:before {
+  content: "\e908";
+}
+.icon-profile-icons-06:before {
+  content: "\e909";
+}
+.icon-profile-icons-05:before {
+  content: "\e90a";
+}
+.icon-profile-icons-04:before {
+  content: "\e90b";
+}
+.icon-profile-icons-03:before {
+  content: "\e90c";
+}
+.icon-profile-icons-02:before {
+  content: "\e90d";
+}
+.icon-profile-icons-01:before {
+  content: "\e90e";
+}
+.icon-bell:before {
+  content: "\e90f";
+}
+.icon-delete:before {
+  content: "\e910";
+}
+.icon-Dashboard-icons-12:before {
+  content: "\e911";
+}
+.icon-Dashboard-icons-11:before {
+  content: "\e912";
+}
+.icon-Dashboard-icons-10:before {
+  content: "\e913";
+}
+.icon-Dashboard-icons-09:before {
+  content: "\e914";
+}
+.icon-Dashboard-icons-08:before {
+  content: "\e915";
+}
+.icon-Dashboard-icons-07:before {
+  content: "\e916";
+}
+.icon-Dashboard-icons-06:before {
+  content: "\e917";
+}
+.icon-Dashboard-icons-05:before {
+  content: "\e918";
+}
+.icon-Dashboard-icons-04:before {
+  content: "\e919";
+}
+.icon-news:before {
+  content: "\e91a";
+}
+.icon-bell:before {
+  content: "\e91b";
+}
+.icon-Dashboard-icons-01:before {
+  content: "\e91c";
+}
+.icon-nav-app:before {
+  content: "\e91d";
+}
+.icon-nav-dash:before {
+  content: "\e91e";
+}
+.icon-nav-profile:before {
+  content: "\e91f";
+}
+.icon-Connect-12:before {
+  content: "\e920";
+}
+.icon-Connect-11:before {
+  content: "\e921";
+}
+.icon-Connect-10:before {
+  content: "\e922";
+}
+.icon-nav-connect:before {
+  content: "\e923";
+}
+.icon-Connect-08:before {
+  content: "\e924";
+}
+.icon-Connect-07:before {
+  content: "\e925";
+}
+.icon-Connect-06:before {
+  content: "\e926";
+}
+.icon-Connect-05:before {
+  content: "\e927";
+}
+.icon-Connect-04:before {
+  content: "\e928";
+}
+.icon-Connect-03:before {
+  content: "\e929";
+}
+.icon-Connect-02:before {
+  content: "\e92a";
+}
+.icon-Connect-01:before {
+  content: "\e92b";
+}
+.icon-video:before {
+  content: "\e92c";
+}
+.icon-phone:before {
+  content: "\e92d";
+}
+.icon-Chat-n-Video-05:before {
+  content: "\e92e";
+}
+.icon-Chat-n-Video-04:before {
+  content: "\e92f";
+}
+.icon-Chat-n-Video-03:before {
+  content: "\e930";
+}
+.icon-Chat-n-Video-02:before {
+  content: "\e931";
+}
+.icon-Chat-n-Video-01:before {
+  content: "\e932";
+}
+.icon-plus:before {
+  content: "\e933";
+}
+.icon-trash-can:before {
+  content: "\e934";
+}
+.icon-application-icons-06:before {
+  content: "\e935";
+}
+.icon-application-icons-06-06:before {
+  content: "\e936";
+}
+.icon-application-icons-05:before {
+  content: "\e937";
+}
+.icon-application-icons-04:before {
+  content: "\e938";
+}
+.icon-application-icons-03:before {
+  content: "\e939";
+}
+.icon-application-icons-02:before {
+  content: "\e93a";
+}
+.icon-application-icons-01:before {
+  content: "\e93b";
+}
+.icon-Notification-03:before {
+  content: "\e93c";
+}
+.icon-chat-bubble:before {
+  content: "\e93d";
+}
+.icon-calendar:before {
+  content: "\e93e";
+}
+.icon-value:before {
+  content: "\e93f";
+}
+.icon-totals:before {
+  content: "\e940";
+}
+.icon-credit-card:before {
+  content: "\e941";
+}
+.icon-money-bag:before {
+  content: "\e942";
+}
+.icon-coin-hand:before {
+  content: "\e943";
+}
+.icon-mortgage:before {
+  content: "\e944";
+}
+.icon-car-loan:before {
+  content: "\e945";
+}
+.icon-business-loan:before {
+  content: "\e946";
+}
+.icon-construction-loan:before {
+  content: "\e947";
+}
+.icon-skyscraper:before {
+  content: "\e948";
+}
+.icon-ICons:before {
+  content: "\e95f";
+}
